@@ -1,8 +1,6 @@
----
-title: GitHub personal profile README
----
+#+title: GitHub personal profile README
 
-### Hi there 👋
+* Hi there 👋
 
 <!--
 Here are some ideas to get you started:
