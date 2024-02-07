@@ -2,6 +2,8 @@
 
 Currently working on [[https://kemdict.com][Kemdict]] ([[https://github.com/kemdict/kemdict][repo]]).
 
+Traditional Chinese (`zh_TW`) translator for KDE.
+
 Half a designer. Can't decide if I'm suffering from imposter syndrome or is just actually an imposter.
 
 @ Kaohsiung, Taiwan.
