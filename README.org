@@ -6,6 +6,8 @@ Traditional Chinese (`zh_TW`) translator for KDE.
 
 Half a designer. Can't decide if I'm suffering from imposter syndrome or is just actually an imposter.
 
+Generally despise of LLMs.
+
 @ Kaohsiung, Taiwan.
 
 # Here are some ideas to get you started:
