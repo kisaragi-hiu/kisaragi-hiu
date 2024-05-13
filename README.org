@@ -6,7 +6,9 @@ Traditional Chinese (`zh_TW`) translator for KDE.
 
 Generally despise of LLMs.
 
-If you have some money to spare please consider [buying a meal for me for $5](https://buymeacoffee.com/kisaragihiu).
+If you have some money to spare please consider [[https://buymeacoffee.com/kisaragihiu][buying a meal for me for $5]].
+
+#+html: <a href="https://buymeacoffee.com/kisaragihiu"><img src="https://cdn.buymeacoffee.com/opengraph/images/1134833/1/og_1711593090.jpg" width="400"></a>
 
 @ Kaohsiung, Taiwan.
 
@@ -23,7 +25,7 @@ If you have some money to spare please consider [buying a meal for me for $5](ht
 
 ** Contact
 
-Can be contacted in Mandarin, English, or Japanese.
+I speak Mandarin, English, Taiwanese, and Japanese. (In decreasing level of familarity.)
 
 - GitLab :: [[https://gitlab.com/kisaragi-hiu][kisaragi-hiu]]
 - GitHub :: [[https://github.com/kisaragi-hiu][kisaragi-hiu]]
