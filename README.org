@@ -4,9 +4,9 @@ Currently working on [[https://kemdict.com][Kemdict]] ([[https://github.com/kemd
 
 Traditional Chinese (`zh_TW`) translator for KDE.
 
-Half a designer. Can't decide if I'm suffering from imposter syndrome or is just actually an imposter.
-
 Generally despise of LLMs.
+
+If you have some money to spare please consider [buying a meal for me for $5](https://buymeacoffee.com/kisaragihiu).
 
 @ Kaohsiung, Taiwan.
 
@@ -31,7 +31,7 @@ Can be contacted in Mandarin, English, or Japanese.
 - Sourcehut :: [[https://gitlab.com/kisaragi-hiu][~kisaragi_hiu]]
 - Twitter :: [[https://twitter.com/kisaragi_hiu][@kisaragi_hiu]]
 - Bluesky :: [[https://bsky.app/profile/kisaragi-hiu.com][@kisaragi-hiu.com]]
-- Reddit :: [[https://www.reddit.com/user/kisaragihiu][u/kisaragihiu]]
+- Reddit :: [[https://www.reddit.com/user/kisaragihiu][u/kisaragihiu]] (previously u/flyin1501; deleted it in a boycott attempt; shamefully returned)
 - YouTube :: [[https://youtube.com/@kisaragi-hiu][@kisaragi-hiu]]
 - niconico :: [[https://nicovideo.jp/user/38995186][user/38995186]]
 - Pixiv :: [[https://pixiv.me/kisaragi-hiu][kisaragi-hiu]]
