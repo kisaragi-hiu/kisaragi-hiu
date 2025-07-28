@@ -4,8 +4,6 @@ Currently working on [[https://kemdict.com][Kemdict]] ([[https://github.com/kemd
 
 Traditional Chinese (`zh_TW`) translator for KDE.
 
-Generally despise of LLMs.
-
 If you have some money to spare please consider [[https://buymeacoffee.com/kisaragihiu][buying a meal for me for $5]].
 
 #+html: <a href="https://buymeacoffee.com/kisaragihiu"><img src="./BMC_og_1711593090.jpg" width="400"></a>
